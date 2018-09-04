@@ -1,3 +1,4 @@
+/*PAGE 1*/
 .seccion1 {
 	background-image: url("https://png.pngtree.com/thumb_back/fh260/back_pic/02/68/42/5957908fe6d9740.jpg");
 }
@@ -42,5 +43,5 @@
 }
 
 .ul-sin-estilo {
-	list-style: none;
+	list-style: none; 
 }
