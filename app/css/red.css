@@ -1,0 +1,47 @@
+/*PAGE 1*/
+.seccion1 {
+	background-image: url("https://png.pngtree.com/thumb_back/fh260/back_pic/02/68/42/5957908fe6d9740.jpg");
+}
+
+.seccion2 {
+	margin-top: 70px;
+	margin-bottom: 20px;
+}
+
+.seccion3 {
+	background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4Ku9x8aIg/glamorous-sparkly-background-texture-from-real-glitter_bdfxfpnfdx_thumbnail-full01.png");
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.seccion4 {
+	background-color: gray;
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+.btn-seccion4 {
+	border-radius: 10px;
+}
+
+.seccion5 {
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+.seccion6 {
+	background: gray;
+	padding-top: 30px;
+	margin-bottom: 0px;
+	padding-bottom: 60px;
+}
+
+.seccion7 {
+	padding-top: 100px;
+	margin-bottom: 0px;
+	padding-bottom: 60px;
+}
+
+.ul-sin-estilo {
+	list-style: none; 
+}
