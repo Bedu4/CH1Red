@@ -111,6 +111,12 @@ span{
     left: 50%;
     position: fixed;
 }
+.w-100{
+    width:100%;
+}
+.bg-White{
+    background-color: white;
+}
 @media only screen and (min-width: 768px) {
     span{
         font-size: 11px;
