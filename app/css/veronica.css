@@ -12,7 +12,6 @@
     transform: scale(1.25); 
     margin-top: 0px;
     margin-bottom: 0px;
-    background-repeat: no-repeat;
     background-position: center bottom;
     background-size: contain;
     opacity: 1;
@@ -60,6 +59,12 @@
     margin-bottom: 5px;
 
 }
+.lineWhite{
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 3%;
+}
 #headerinfo{
     display: flex;
     vertical-align: top; 
@@ -84,6 +89,10 @@ span{
 .btn{
     border-radius: 20%;
 }
+.btn-radiousGreen{
+    background-color:#00704a;
+    border-radius: 50%
+}
 
 .bgColor{
     background-color:#00704a;
@@ -103,17 +112,26 @@ span{
     position: fixed;
 }
 @media only screen and (min-width: 768px) {
-    span{
+    span
+    button
+    {
         font-size: 10px;
     }
 }
 @media only screen and (min-width: 992px) {
-    span{
+    span
+    button{
         font-size: 18px;
     }
 }
 @media only screen and (min-width: 1200px) {
-    span{
+    span
+    button{
         font-size: 22px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    button{
+        font-size: 8px;
     }
 }
