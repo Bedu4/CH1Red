@@ -73,6 +73,9 @@
 a{
     color: #00704a;
 }
+span{
+    font-size: 14px;
+}
 
 .btn-Carousel{
    border-radius: 50%;
@@ -90,4 +93,12 @@ a{
 .btn:hover {
     background-color:purple;
     color: white;
+}
+#logo{
+    width: 189px;
+    height: 70px;
+    top: 4px;
+    margin-left: -111px;
+    left: 50%;
+    position: fixed;
 }
