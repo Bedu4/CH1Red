@@ -112,26 +112,35 @@ span{
     position: fixed;
 }
 @media only screen and (min-width: 768px) {
-    span
+    span{
+        font-size: 11px;
+    }
     button
     {
-        font-size: 10px;
+        font-size: 9px;
     }
 }
 @media only screen and (min-width: 992px) {
-    span
-    button{
+    span{
         font-size: 18px;
+    }
+    button{
+        font-size: 16px;
     }
 }
 @media only screen and (min-width: 1200px) {
-    span
-    button{
+    span{
         font-size: 22px;
+    }
+    button{
+        font-size: 20px;
     }
 }
 @media only screen and (max-width: 768px) {
-    button{
+    span{
         font-size: 8px;
+    }
+    button{
+        font-size: 7px;
     }
 }
